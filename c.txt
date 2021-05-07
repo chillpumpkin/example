@@ -1,0 +1,7 @@
+white 
+green
+red
+black
+blue
+pink
+Î
